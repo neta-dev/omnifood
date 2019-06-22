@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"section",
+				"section-features"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"span",
+				"span-1-of-2"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"r",
+				"rgba"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"c",
+				"cite\tTag"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"sec",
+				"section-steps"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tr",
+				"transform-style"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"LR",
+				"letter-spacing"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"A",
+				"autor"
+			],
+			[
+				"log",
+				"logo1"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"gr",
+				"gr-40"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 13243,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vendors/css/grid.css",
+			"settings":
+			{
+				"buffer_size": 8390,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 377.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/nata/Desktop/omnifood/vendors/js/New Text Document.txt",
+		"/C/Users/nata/Desktop/omnifood/index.sublime-workspace",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/nata/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/nata/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/nata/Desktop/omnifood/resources/css/style.css",
+		"/C/Users/nata/Desktop/omnifood/vendors/css/grid.css",
+		"/C/Users/nata/Downloads/Omnifood-After-Section-6/Omnifood - After Section 6/vendors/css/ionicons.min.css",
+		"/C/Users/nata/Desktop/omnifood/vendors/css/ionicons.min.css",
+		"/C/Users/nata/Downloads/Omnifood-After-Section-6/Omnifood - After Section 6/vendors/fonts/ionicons.eot",
+		"/C/Users/nata/Desktop/omnifood/ionicons-2.0.1/css/ionicons.min.css",
+		"/C/Users/nata/Desktop/myindex/style.css",
+		"/C/Users/nata/Desktop/myindex/myindex.html",
+		"/E/Data/training/natasha/udemy/html5web/blog post/index2.html",
+		"/E/Data/training/natasha/udemy/html5web/blog post/style1.css",
+		"/E/Data/training/natasha/udemy/html5web/blog post/style.css",
+		"/C/Users/nata/Desktop/omnifood/Omnifood Contents.zip",
+		"/E/Data/training/natasha/udemy/html5web/blog post/index.html",
+		"/C/Users/nata/Desktop/myindex/resourses/css/img/style.css",
+		"/C/Users/nata/Desktop/myindex/resourses/css/img/vege.jpg",
+		"/C/Users/nata/Desktop/omnifood/Omnifood Contents/Omnifood Contents/3.jpg",
+		"/C/Users/nata/Desktop/mylessens/myindex.html",
+		"/C/Users/nata/Desktop/myindex.html",
+		"/E/Data/training/natasha/udemy/html5web/blog post/myindex.html",
+		"/E/mylessons.html",
+		"/C/Users/nata/Desktop/omnifood/index.html",
+		"/C/Users/nata/Desktop/omnifood/vendors/css/grid.css-old",
+		"/E/Data/training/natasha/html/loose-weight.html",
+		"/C/Users/nata/Desktop/omnifood/vendors/css/normalize.css",
+		"/E/Data/training/natasha/udemy/html5web/blog post/index.html2",
+		"/E/Data/training/natasha/udemy/html5web/blog post/test1.html",
+		"/C/Users/nata/Downloads/blog-post (1)/blog post/style.css",
+		"/C/Users/nata/Downloads/blog-post (1)/blog post/index.html",
+		"/C/Users/nata/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/E/Data/training/natasha/udemy/html5web/index.html",
+		"/E/Data/training/natasha/udemy/html5web/blog post",
+		"/E/Data/training/natasha/udemy/html5web/blog post/index.html/index.html",
+		"/E/Data/training/natasha/udemy/html5web/blog post/index.html/logo.jpg",
+		"/E/Data/training/natasha/html/exel",
+		"/E/Data/training/natasha/udemy/html5web/blog post/test.html",
+		"/C/Users/nata/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Data/training/natasha/html/try.html",
+		"/E/Data/training/natasha/html/test5.html",
+		"/E/Data/training/natasha/html/lose weight.html",
+		"/E/Data/training/natasha/html/lose weight.htlm",
+		"/E/Data/training/natasha/html/test.html5",
+		"/E/Data/training/natasha/html/PersonalBudget1.htm"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4827,
+								4827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vendors/css/grid.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1134,
+								1134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
